@@ -1,0 +1,4 @@
+[
+    "^/.*$ http://sandboxpowered.org [R=302,NC,H=^sandboxpowered\.com$]",
+    "^/.*$ http://sandboxpowered.org [R=302,NC,H=^sandboxpowered\.net$]"
+]
